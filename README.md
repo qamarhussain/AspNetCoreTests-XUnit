@@ -1,2 +1,2 @@
 # AspNetCoreTests-XUnit
-AspNet Core Unit and Integration tests.
+AspNet Core Unit testing using XUnit
